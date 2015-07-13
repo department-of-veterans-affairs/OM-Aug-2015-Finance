@@ -1,0 +1,1021 @@
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                             EDUCATION
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  NOT DELINQUENT
+   TOTAL               38,589     36,885,043         1,354        976,436             0              0             0                0
+     PRINCIPAL         38,589     36,885,036         1,354        976,433             0              0             0                0
+     INTEREST               2              1             1              0             0              0             0                0
+     ADMIN COST             2              6             1              3             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  1
+   TOTAL               39,444     32,840,853         1,317      1,092,586             0              0             0                0
+     PRINCIPAL         39,444     32,838,833         1,317      1,091,799             0              0             0                0
+     INTEREST             508            441           208            141             0              0             0                0
+     ADMIN COST           509          1,579           208            646             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  2
+   TOTAL               25,961     24,854,494         8,672      7,726,380             0              0             0                0
+     PRINCIPAL         25,961     24,849,426         8,672      7,725,619             0              0             0                0
+     INTEREST             778          1,151           171            130             0              0             0                0
+     ADMIN COST           785          3,917           174            631             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  3
+   TOTAL               19,314     19,932,893         6,679      6,382,255             0              0             0                0
+     PRINCIPAL         19,314     19,927,170         6,679      6,381,624             0              0             0                0
+     INTEREST             592          1,254            95            153             0              0             0                0
+     ADMIN COST           599          4,469            95            478             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  4-6
+   TOTAL               37,151     40,636,216         9,964     11,416,473             0              0             0                0
+     PRINCIPAL         37,151     40,610,436         9,964     11,414,516             0              0             0                0
+     INTEREST           1,532          6,307           229            458             0              0             0                0
+     ADMIN COST         1,572         19,473           230          1,499             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    2
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                             EDUCATION
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  7-12
+   TOTAL               47,745     59,002,247        13,028     15,724,970             0              0             0                0
+     PRINCIPAL         47,745     58,966,942        13,028     15,722,830             0              0             0                0
+     INTEREST           1,496          8,008           197            503             0              0             0                0
+     ADMIN COST         1,557         27,297           197          1,637             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  13-15
+   TOTAL               20,817     29,280,990         4,804      6,364,796             0              0             0                0
+     PRINCIPAL         20,817     29,253,821         4,804      6,364,215             0              0             0                0
+     INTEREST             875          6,436            65            146             0              0             0                0
+     ADMIN COST           883         20,733            67            435             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  16-18
+   TOTAL               15,715     22,373,064         3,004      4,749,159             0              0             0                0
+     PRINCIPAL         15,715     22,347,710         3,004      4,748,868             0              0             0                0
+     INTEREST             632          6,538            34             69             0              0             0                0
+     ADMIN COST           644         18,816            35            222             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  19-21
+   TOTAL               10,628     15,302,467         1,999      3,558,888             0              0             0                0
+     PRINCIPAL         10,628     15,289,037         1,999      3,558,512             0              0             0                0
+     INTEREST             365          3,530            22            127             0              0             0                0
+     ADMIN COST           367          9,900            21            249             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  22-24
+   TOTAL               10,215     15,361,865         1,859      3,241,007             0              0             0                0
+     PRINCIPAL         10,215     15,342,090         1,859      3,240,342             0              0             0                0
+     INTEREST             472          5,687            22            270             0              0             0                0
+     ADMIN COST           474         14,088            22            395             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    3
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                             EDUCATION
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  25-30
+   TOTAL               18,479     26,488,029         3,014      5,265,809             0              0             0                0
+     PRINCIPAL         18,479     26,461,566         3,014      5,265,284             0              0             0                0
+     INTEREST             810          8,341            26            117             0              0             0                0
+     ADMIN COST           806         18,122            26            408             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  31-36
+   TOTAL               10,451     14,987,986         1,524      2,478,236             0              0             0                0
+     PRINCIPAL         10,451     14,970,065         1,524      2,477,301             0              0             0                0
+     INTEREST             551          6,061            16            494             0              0             0                0
+     ADMIN COST           550         11,860            17            441             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  37-42
+   TOTAL                8,940     13,651,969         1,059      1,965,839             0              0             0                0
+     PRINCIPAL          8,940     13,632,428         1,059      1,965,187             0              0             0                0
+     INTEREST             547          7,071            14            280             0              0             0                0
+     ADMIN COST           549         12,470            14            372             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  43-48
+   TOTAL                5,618      8,541,112           490        960,626             0              0             0                0
+     PRINCIPAL          5,618      8,524,326           490        960,259             0              0             0                0
+     INTEREST             425          6,462             5            157             0              0             0                0
+     ADMIN COST           425         10,324             5            210             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  49-54
+   TOTAL                5,399      8,441,344           462        965,309             0              0             0                0
+     PRINCIPAL          5,399      8,423,964           462        965,306             0              0             0                0
+     INTEREST             472          6,388             1              0             0              0             0                0
+     ADMIN COST           471         10,992             1              3             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    4
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                             EDUCATION
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  55-60
+   TOTAL                3,109      4,920,866           204        448,253             0              0             0                0
+     PRINCIPAL          3,109      4,906,669           204        448,238             0              0             0                0
+     INTEREST             327          6,468             3              3             0              0             0                0
+     ADMIN COST           326          7,729             3             12             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  61-72
+   TOTAL                8,209     13,704,487           413        597,298             0              0             0                0
+     PRINCIPAL          8,209     13,661,367           413        596,882             0              0             0                0
+     INTEREST             634         26,379             5             37             0              0             0                0
+     ADMIN COST           628         16,741             6            379             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  73-84
+   TOTAL                2,467      3,559,306            67        175,847             0              0             0                0
+     PRINCIPAL          2,467      3,517,408            67        173,820             0              0             0                0
+     INTEREST             514         29,816             4          1,729             0              0             0                0
+     ADMIN COST           506         12,082             4            298             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  OVER 84
+   TOTAL                6,744     10,337,197           197        573,447             0              0             0                0
+     PRINCIPAL          6,744     10,124,283           197        489,197             0              0             0                0
+     INTEREST           1,261        170,983             9         83,975             0              0             0                0
+     ADMIN COST         1,234         41,931             5            275             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-  GRAND TOTAL        334,995    401,102,428        60,110     74,663,614             0              0             0                0
+     PRINCIPAL        334,995    400,532,577        60,110     74,566,232             0              0             0                0
+     INTEREST          12,793        307,322         1,127         88,789             0              0             0                0
+     ADMIN COST        12,887        262,529         1,131          8,593             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-
+                   ACCOUNTS COMPRISE       70% OF THE TOTAL CARS ACCOUNTS
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    5
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                      COMPENSATION AND PENSION
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  NOT DELINQUENT
+   TOTAL               13,346     58,727,308         3,778     16,306,254             0              0             0                0
+     PRINCIPAL         13,346     58,727,308         3,778     16,306,254             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  1
+   TOTAL               13,331     57,589,539         7,530     27,160,575             0              0             0                0
+     PRINCIPAL         13,330     57,589,539         7,530     27,160,575             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  2
+   TOTAL               10,061     57,424,329         5,101     20,144,821             0              0             0                0
+     PRINCIPAL         10,061     57,424,329         5,101     20,144,821             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  3
+   TOTAL                6,756     60,595,559         3,044     17,749,477             0              0             0                0
+     PRINCIPAL          6,756     60,595,559         3,044     17,749,477             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  4-6
+   TOTAL               13,787    104,503,358         5,157     27,918,239             0              0             0                0
+     PRINCIPAL         13,787    104,503,358         5,157     27,918,239             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    6
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                      COMPENSATION AND PENSION
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  7-12
+   TOTAL               23,616    219,029,499         9,403     64,952,096             0              0             0                0
+     PRINCIPAL         23,616    219,029,499         9,403     64,952,096             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  13-15
+   TOTAL                6,650     54,608,107         2,515     18,365,975             0              0             0                0
+     PRINCIPAL          6,650     54,608,107         2,515     18,365,975             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  16-18
+   TOTAL                4,403     35,928,325         1,682     13,522,871             0              0             0                0
+     PRINCIPAL          4,403     35,928,325         1,682     13,522,871             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  19-21
+   TOTAL                4,597     49,116,853         1,881     16,316,638             0              0             0                0
+     PRINCIPAL          4,597     49,116,853         1,881     16,316,638             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  22-24
+   TOTAL                3,481     30,466,086         1,359     10,686,577             0              0             0                0
+     PRINCIPAL          3,481     30,466,086         1,359     10,686,577             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    7
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                      COMPENSATION AND PENSION
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  25-30
+   TOTAL                6,700     55,438,266         2,214     19,272,639             0              0             0                0
+     PRINCIPAL          6,700     55,438,266         2,214     19,272,639             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  31-36
+   TOTAL                3,376     38,474,985         1,650     13,134,306             0              0             0                0
+     PRINCIPAL          3,376     38,474,985         1,650     13,134,306             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  37-42
+   TOTAL                2,375     27,280,378         1,142     10,515,169             0              0             0                0
+     PRINCIPAL          2,375     27,280,378         1,142     10,515,169             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  43-48
+   TOTAL                2,909     44,736,915         1,228     13,991,808             0              0             0                0
+     PRINCIPAL          2,909     44,736,915         1,228     13,991,808             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  49-54
+   TOTAL                2,598     38,464,938         1,045     11,991,450             0              0             0                0
+     PRINCIPAL          2,598     38,464,938         1,045     11,991,450             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    8
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                      COMPENSATION AND PENSION
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  55-60
+   TOTAL                2,830     46,610,566         1,016     12,205,376             0              0             0                0
+     PRINCIPAL          2,830     46,610,566         1,016     12,205,376             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  61-72
+   TOTAL                4,090     63,722,924         1,313     17,113,917             0              0             0                0
+     PRINCIPAL          4,090     63,722,924         1,313     17,113,917             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  73-84
+   TOTAL                4,178     71,352,135         1,220     17,890,039             0              0             0                0
+     PRINCIPAL          4,178     71,352,135         1,220     17,890,039             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  OVER 84
+   TOTAL               12,280    199,707,885         3,440     49,588,441             0              0             0                0
+     PRINCIPAL         12,280    199,707,885         3,440     49,588,441             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-  GRAND TOTAL        141,364  1,313,777,955        55,718    398,826,668             0              0             0                0
+     PRINCIPAL        141,363  1,313,777,955        55,718    398,826,668             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-
+                   ACCOUNTS COMPRISE       29% OF THE TOTAL CARS ACCOUNTS
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    9
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           LOAN GUARANTY
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  NOT DELINQUENT
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  1
+   TOTAL                   14        320,350            13        292,623             0              0             0                0
+     PRINCIPAL             14        216,674            13        200,438             0              0             0                0
+     INTEREST              14        103,676            13         92,185             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  2
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  3
+   TOTAL                    3         42,930             2         26,361             0              0             0                0
+     PRINCIPAL              3         23,501             2         14,469             0              0             0                0
+     INTEREST               3         19,429             2         11,892             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  4-6
+   TOTAL                  287      4,990,319           220      3,767,862             0              0             0                0
+     PRINCIPAL            276      2,823,965           214      2,133,588             0              0             0                0
+     INTEREST             287      2,166,354           220      1,634,274             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   10
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           LOAN GUARANTY
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  7-12
+   TOTAL                  274      4,639,732           247      4,126,816             0              0             0                0
+     PRINCIPAL            250      2,543,817           227      2,265,862             0              0             0                0
+     INTEREST             274      2,095,915           247      1,860,954             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  13-15
+   TOTAL                  180      3,105,847           159      2,711,213             0              0             0                0
+     PRINCIPAL            162      1,619,507           144      1,410,552             0              0             0                0
+     INTEREST             180      1,486,340           159      1,300,661             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  16-18
+   TOTAL                  148      2,498,136           137      2,316,719             0              0             0                0
+     PRINCIPAL            129      1,232,780           122      1,142,079             0              0             0                0
+     INTEREST             148      1,265,356           137      1,174,640             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  19-21
+   TOTAL                  121      1,884,045           112      1,719,660             0              0             0                0
+     PRINCIPAL            112        906,441           103        811,992             0              0             0                0
+     INTEREST             121        977,604           112        907,668             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  22-24
+   TOTAL                  113      1,665,408           105      1,468,502             0              0             0                0
+     PRINCIPAL            101        782,793            93        677,621             0              0             0                0
+     INTEREST             113        882,615           105        790,881             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   11
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           LOAN GUARANTY
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  25-30
+   TOTAL                  617      9,626,465           569      8,676,178             0              0             0                0
+     PRINCIPAL            527      4,482,930           486      3,981,600             0              0             0                0
+     INTEREST             617      5,143,535           569      4,694,578             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  31-36
+   TOTAL                  966     13,246,179           880     12,030,197             0              0             0                0
+     PRINCIPAL            789      5,636,281           721      5,061,910             0              0             0                0
+     INTEREST             966      7,609,898           880      6,968,287             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  37-42
+   TOTAL                   15        435,403            13        368,350             0              0             0                0
+     PRINCIPAL             10        210,531             9        152,384             0              0             0                0
+     INTEREST              15        224,872            13        215,966             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  43-48
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  49-54
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   12
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           LOAN GUARANTY
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  55-60
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  61-72
+   TOTAL                   16        132,148            11         92,386             0              0             0                0
+     PRINCIPAL             14         98,140             9         68,253             0              0             0                0
+     INTEREST              16         34,008            11         24,133             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  73-84
+   TOTAL                   19         98,551             6         48,884             0              0             0                0
+     PRINCIPAL             12         63,943             5         32,247             0              0             0                0
+     INTEREST              19         34,608             6         16,637             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  OVER 84
+   TOTAL                1,234     14,214,698         1,017     11,311,345             0              0             0                0
+     PRINCIPAL            449      3,302,153           310      2,071,956             0              0             0                0
+     INTEREST           1,234     10,912,545         1,017      9,239,389             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-  GRAND TOTAL          4,007     56,900,211         3,491     48,957,096             0              0             0                0
+     PRINCIPAL          2,848     23,943,456         2,458     20,024,951             0              0             0                0
+     INTEREST           4,007     32,956,755         3,491     28,932,145             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-
+                   ACCOUNTS COMPRISE        1% OF THE TOTAL CARS ACCOUNTS
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   13
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           DIRECT LOANS
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  NOT DELINQUENT
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  1
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  2
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  3
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  4-6
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   14
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           DIRECT LOANS
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  7-12
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  13-15
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  16-18
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  19-21
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  22-24
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   15
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           DIRECT LOANS
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  25-30
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  31-36
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  37-42
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  43-48
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  49-54
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   16
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           DIRECT LOANS
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  55-60
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  61-72
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  73-84
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  OVER 84
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-  GRAND TOTAL              0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-
+                   ACCOUNTS COMPRISE        0% OF THE TOTAL CARS ACCOUNTS
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   17
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                            OTHER AGENCY
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  NOT DELINQUENT
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  1
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  2
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  3
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  4-6
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   18
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                            OTHER AGENCY
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  7-12
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  13-15
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  16-18
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  19-21
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  22-24
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   19
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                            OTHER AGENCY
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  25-30
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  31-36
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  37-42
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  43-48
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  49-54
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   20
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                            OTHER AGENCY
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  55-60
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  61-72
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  73-84
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  OVER 84
+   TOTAL                    0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-  GRAND TOTAL              0              0             0              0             0              0             0                0
+     PRINCIPAL              0              0             0              0             0              0             0                0
+     INTEREST               0              0             0              0             0              0             0                0
+     ADMIN COST             0              0             0              0             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-
+                   ACCOUNTS COMPRISE        0% OF THE TOTAL CARS ACCOUNTS
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   21
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           ALL ACCOUNTS
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  NOT DELINQUENT
+   TOTAL               51,935     95,612,351         5,132     17,282,690             0              0             0                0
+     PRINCIPAL         51,935     95,612,344         5,132     17,282,687             0              0             0                0
+     INTEREST               2              1             1              0             0              0             0                0
+     ADMIN COST             2              6             1              3             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  1
+   TOTAL               52,789     90,750,742         8,860     28,545,784             0              0             0                0
+     PRINCIPAL         52,788     90,645,046         8,860     28,452,812             0              0             0                0
+     INTEREST             522        104,117           221         92,326             0              0             0                0
+     ADMIN COST           509          1,579           208            646             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  2
+   TOTAL               36,022     82,278,823        13,773     27,871,201             0              0             0                0
+     PRINCIPAL         36,022     82,273,755        13,773     27,870,440             0              0             0                0
+     INTEREST             778          1,151           171            130             0              0             0                0
+     ADMIN COST           785          3,917           174            631             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  3
+   TOTAL               26,073     80,571,382         9,725     24,158,093             0              0             0                0
+     PRINCIPAL         26,073     80,546,230         9,725     24,145,570             0              0             0                0
+     INTEREST             595         20,683            97         12,045             0              0             0                0
+     ADMIN COST           599          4,469            95            478             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  4-6
+   TOTAL               51,225    150,129,893        15,341     43,102,574             0              0             0                0
+     PRINCIPAL         51,214    147,937,759        15,335     41,466,343             0              0             0                0
+     INTEREST           1,819      2,172,661           449      1,634,732             0              0             0                0
+     ADMIN COST         1,572         19,473           230          1,499             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   22
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           ALL ACCOUNTS
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  7-12
+   TOTAL               71,635    282,671,478        22,678     84,803,882             0              0             0                0
+     PRINCIPAL         71,611    280,540,258        22,658     82,940,788             0              0             0                0
+     INTEREST           1,770      2,103,923           444      1,861,457             0              0             0                0
+     ADMIN COST         1,557         27,297           197          1,637             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  13-15
+   TOTAL               27,647     86,994,944         7,478     27,441,984             0              0             0                0
+     PRINCIPAL         27,629     85,481,435         7,463     26,140,742             0              0             0                0
+     INTEREST           1,055      1,492,776           224      1,300,807             0              0             0                0
+     ADMIN COST           883         20,733            67            435             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  16-18
+   TOTAL               20,266     60,799,525         4,823     20,588,749             0              0             0                0
+     PRINCIPAL         20,247     59,508,815         4,808     19,413,818             0              0             0                0
+     INTEREST             780      1,271,894           171      1,174,709             0              0             0                0
+     ADMIN COST           644         18,816            35            222             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  19-21
+   TOTAL               15,346     66,303,365         3,992     21,595,186             0              0             0                0
+     PRINCIPAL         15,337     65,312,331         3,983     20,687,142             0              0             0                0
+     INTEREST             486        981,134           134        907,795             0              0             0                0
+     ADMIN COST           367          9,900            21            249             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  22-24
+   TOTAL               13,809     47,493,359         3,323     15,396,086             0              0             0                0
+     PRINCIPAL         13,797     46,590,969         3,311     14,604,540             0              0             0                0
+     INTEREST             585        888,302           127        791,151             0              0             0                0
+     ADMIN COST           474         14,088            22            395             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   23
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           ALL ACCOUNTS
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  25-30
+   TOTAL               25,796     91,552,760         5,797     33,214,626             0              0             0                0
+     PRINCIPAL         25,706     86,382,762         5,714     28,519,523             0              0             0                0
+     INTEREST           1,427      5,151,876           595      4,694,695             0              0             0                0
+     ADMIN COST           806         18,122            26            408             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  31-36
+   TOTAL               14,793     66,709,150         4,054     27,642,739             0              0             0                0
+     PRINCIPAL         14,616     59,081,331         3,895     20,673,517             0              0             0                0
+     INTEREST           1,517      7,615,959           896      6,968,781             0              0             0                0
+     ADMIN COST           550         11,860            17            441             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  37-42
+   TOTAL               11,330     41,367,750         2,214     12,849,358             0              0             0                0
+     PRINCIPAL         11,325     41,123,337         2,210     12,632,740             0              0             0                0
+     INTEREST             562        231,943            27        216,246             0              0             0                0
+     ADMIN COST           549         12,470            14            372             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  43-48
+   TOTAL                8,527     53,278,027         1,718     14,952,434             0              0             0                0
+     PRINCIPAL          8,527     53,261,241         1,718     14,952,067             0              0             0                0
+     INTEREST             425          6,462             5            157             0              0             0                0
+     ADMIN COST           425         10,324             5            210             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  49-54
+   TOTAL                7,997     46,906,282         1,507     12,956,759             0              0             0                0
+     PRINCIPAL          7,997     46,888,902         1,507     12,956,756             0              0             0                0
+     INTEREST             472          6,388             1              0             0              0             0                0
+     ADMIN COST           471         10,992             1              3             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+1 
+ (USVA/CARS)  DATE 05/29/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   24
+0                                                      CARS AGE PROFILE REPORT                                         COIN/CARS 0017
+                                                           ALL ACCOUNTS
+0 AGE OF             NO. OF     $-VALUE OF        NO. WITH   $-VALUE WITH      NUMBER    $-VALUE PENDING     NUMBER      $-VALUE
+ ACCOUNTS           ACCOUNTS     ACCOUNTS          REPAY      REPAY PLAN       PENDING    WITH JUSTICE     PENDING W/   PENDING W/
+ (MONTHS)                                          PLAN                       W/JUSTICE                    REG CNSL     REG CNSL
+0  55-60
+   TOTAL                5,939     51,531,432         1,220     12,653,629             0              0             0                0
+     PRINCIPAL          5,939     51,517,235         1,220     12,653,614             0              0             0                0
+     INTEREST             327          6,468             3              3             0              0             0                0
+     ADMIN COST           326          7,729             3             12             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  61-72
+   TOTAL               12,315     77,559,559         1,737     17,803,601             0              0             0                0
+     PRINCIPAL         12,313     77,482,431         1,735     17,779,052             0              0             0                0
+     INTEREST             650         60,387            16         24,170             0              0             0                0
+     ADMIN COST           628         16,741             6            379             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  73-84
+   TOTAL                6,664     75,009,992         1,293     18,114,770             0              0             0                0
+     PRINCIPAL          6,657     74,933,486         1,292     18,096,106             0              0             0                0
+     INTEREST             533         64,424            10         18,366             0              0             0                0
+     ADMIN COST           506         12,082             4            298             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+0  OVER 84
+   TOTAL               20,258    224,259,780         4,654     61,473,233             0              0             0                0
+     PRINCIPAL         19,473    213,134,321         3,947     52,149,594             0              0             0                0
+     INTEREST           2,495     11,083,528         1,026      9,323,364             0              0             0                0
+     ADMIN COST         1,234         41,931             5            275             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-  GRAND TOTAL        480,366  1,771,780,594       119,319    522,447,378             0              0             0                0
+     PRINCIPAL        479,206  1,738,253,988       118,286    493,417,851             0              0             0                0
+     INTEREST          16,800     33,264,077         4,618     29,020,934             0              0             0                0
+     ADMIN COST        12,887        262,529         1,131          8,593             0              0             0                0
+     COURT COST             0              0             0              0             0              0             0                0
+     MARSHAL FEES           0              0             0              0             0              0             0                0
+-
+-
+    AVERAGE AGE OF EDUCATION ACCOUNT IS        15.4 MONTHS
+    AVERAGE AGE OF COMP & PENSION ACCOUNT IS   25.1 MONTHS
+    AVERAGE AGE OF LOAN GUARANTY ACCOUNT IS   102.6 MONTHS
+    AVERAGE AGE OF DIRECT LOAN ACCOUNT IS       0.0 MONTHS
+    AVERAGE AGE OF OTHER AGENCY ACCOUNT IS      0.0 MONTHS
+    AVERAGE AGE OF TOTAL ACCOUNT IS            19.0 MONTHS
+1DJDE JDE=C1PART,JDL=SYSOUT,COPIES=01,END;                                                                                           
+1
